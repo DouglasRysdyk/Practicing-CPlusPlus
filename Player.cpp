@@ -1,3 +1,4 @@
+/*
 #include "Player.h"
 #include <iostream>
 #include <string>
@@ -31,6 +32,6 @@ void Player::Attack()
 {
 	std::cout << "Magic missile!"; //I don't like that this made me include the iostream and string libraries again.
 }
-
+*/
 //Implement stuff in the Header
 //Declare stuff here

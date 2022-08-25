@@ -1,2 +1,3 @@
-﻿  Classes Objects And Pointers.cpp
+﻿  Guessing Game.cpp
+D:\Users\dougr\Documents\GitHub\!. Visual Studio\Project1\Guessing Game.cpp(49,21): warning C4018: '<=': signed/unsigned mismatch
   Project1.vcxproj -> D:\Users\dougr\Documents\GitHub\!. Visual Studio\Project1\Debug\Project1.exe
