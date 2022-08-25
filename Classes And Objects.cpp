@@ -1,3 +1,4 @@
+/*
 #include "Player.h"
 #include <iostream>
 #include <string>
@@ -35,6 +36,7 @@ int main()
 	cout << "The lancer's power is " << lancer.Power << endl;
 	cout << "The lancer's health is " << lancer.Health << endl;
 }
+*/
 
 //VERY BASIC SYNTAX
 /*

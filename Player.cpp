@@ -15,10 +15,7 @@ Player::Player(int _power, float _health)
 	this->Health = _health;
 }
  
-Player::~Player()
-{
-	//
-}
+Player::~Player() {}
 
 int Player::GetMana()
 {
